@@ -1,0 +1,2 @@
+# gerenciaMinet
+Tarefa semanal
